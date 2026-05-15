@@ -79,6 +79,7 @@ Escanea el QR con la app Expo Go en tu celular.
 - Todas las rutas protegidas validan el token JWT en cada petición
 - Token con expiración de 1 hora
 - Respuestas con códigos HTTP adecuados (401, 403, 400, 404)
+---
 
   ## LINK DEL VIDEO
   
