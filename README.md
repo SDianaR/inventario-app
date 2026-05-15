@@ -5,7 +5,7 @@ Universidad Don Bosco
 ---
 
  ## LINK DEL VIDEO
- 
+[![Ver video](https://img.youtube.com/vi/iNQwn5BnC-k/0.jpg)](https://youtu.be/iNQwn5BnC-k)
 
 ## Integrantes
 -Daniela Guadalupe Hernandez Mejia HM250077
@@ -83,6 +83,3 @@ Escanea el QR con la app Expo Go en tu celular.
 - Token con expiración de 1 hora
 - Respuestas con códigos HTTP adecuados (401, 403, 400, 404)
 ---
-
-  ## LINK DEL VIDEO
-  
